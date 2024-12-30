@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Iganc
 - 👀 I’m interested in programing and composing music 
-- 🌱 I’m currently learning django and assemblr
+- 🌱 I’m currently learning django and 
 - 📫 How to reach me, email: mrozignacy@gmail.com
-- ✨ Already know: PSQL, PHP, HTML, CSS, JavaScript, Java, Python, C, assembler
+- ✨ Already know: Python, Java, C, SQL, PHP, HTML, CSS, JavaScript, Assembly
 
 <!---
 Iganc/Iganc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
