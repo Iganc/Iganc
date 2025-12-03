@@ -13,16 +13,16 @@ Experience
 - **Backend Developer – Zero Page (2024–2025)**  
   Built REST APIs, optimized SQL queries, maintained CMS features, and wrote unit & integration tests.
 
-- **Backend Developer Intern – Univentum Labs (2025)**  
+- **Backend Developer Intern - Univentum Labs (2025)**  
   Developed API endpoints in JavaScript, integrated with an AI module, and structured model outputs for frontend use.
 
 
 Highlighted Projects
-- **IgiFy** — full-stack JavaScript music platform  
+- **IgiFy** - full-stack JavaScript music platform  
   Authentication, artist management, audio streaming, WAV→FLAC conversion.  
   Backend: Express.js + PostgreSQL + Knex.
 
-- **Continuous Contract Backtesting** — Django trading strategy platform  
+- **Continuous Contract Backtesting** - Django trading strategy platform  
   Interactive charts, long/short simulation, CSV import, session saving, DRF backend.
 
 Education
